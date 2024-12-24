@@ -6,7 +6,7 @@
 ---
 
 ## 👩‍🏫 **About Me**
-I am a passionate developer with a strong foundation in **web and mobile application development**. I thrive on problem-solving and creating impactful digital solutions using modern technologies.
+I’m Zayneb Lemjid, a software developer passionate about building efficient and user-friendly applications. I enjoy learning new technologies and solving problems through coding.
 
 ---
 
