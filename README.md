@@ -18,9 +18,9 @@ I’m Zayneb Lemjid, a software developer passionate about building efficient an
 
 ## 🛠️ **Skills**
 
-- **Languages**: Python, Java, JavaScript, PHP, SQL, TypeScript  
+- **Languages**: Python, Java, JavaScript, SQL, TypeScript  
 - **Mobile Development**: Android Studio, Flutter  
-- **Web Frameworks**: Angular, Symfony, Spring Boot, NodeJS  
+- **Web Frameworks**: Angular, Spring Boot, NodeJS  
 - **Database Management**: MySQL, PostgreSQL, MongoDB  
 - **Development Tools**: Git, IntelliJ IDEA, VS Code  
 
@@ -43,7 +43,7 @@ I’m Zayneb Lemjid, a software developer passionate about building efficient an
 ### **📊 Presidential Elections Platform**  
 **Technologies**: Angular, Node.js  
 - Designed a secure online voting platform with real-time analytics.
-- 
+
 ### **📦 E-commerce Application**  
 **Technologies**: Symfony, PHP 7, HTML, CSS, Git, GitHub  
 - Developed an e-commerce platform for electronic products, enabling seamless buying and selling experiences.
